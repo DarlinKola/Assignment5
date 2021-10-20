@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">le dessert App</string>
+    <string name="instruction">Sélectionnez et article ci-dessous </string>
+    <string-array name="names">
+        <item>Originale</item>
+        <item>Fraise Fraîche</item>
+        <item>Gâteau au fromage au chocolat et au caramel </item>
+        <item>Ananas à l\'envers </item>
+        <item>Fête</item>
+        <item>Pomme Caramel</item>
+        <item>Chocolat Ghirardelli® Très Cerise</item>
+        <item>Faible-Licious</item>
+        <item>Tourbillon de cannelle Cinnabon®</item>
+        <item>Chocolat Godiva®</item>
+        <item>Tarte à la crème de noix de coco</item>
+        <item>Caramel salé</item>
+    </string-array>
+</resources>
