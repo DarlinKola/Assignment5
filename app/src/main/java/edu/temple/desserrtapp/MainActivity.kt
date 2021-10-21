@@ -7,7 +7,7 @@ import android.view.View
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 
-class SelectionActivity : AppCompatActivity() {
+class MainActivity : AppCompatActivity() {
 
     /**
      * Companion objects are used in Kotlin

@@ -18,7 +18,7 @@ class DisplayActivity : AppCompatActivity() {
         val textView = findViewById<TextView>(R.id.textView)
 
         // Fetch the intent used to launch this activity
-        val item = intent.getParcelableExtra<Item>(SelectionActivity.ITEM_KEY)
+        val item = intent.getParcelableExtra<Item>(MainActivity.ITEM_KEY)
 
         /**
          * Use Item object found in intent to set view values
